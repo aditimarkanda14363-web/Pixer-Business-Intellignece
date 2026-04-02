@@ -12,7 +12,7 @@ Business &amp; Marketing Intelligence analysis of Pixar's 28-film portfolio — 
 
 ## Project Summary
 
-This project treats Pixar's film portfolio as a real client engagement — the kind a consulting firm like Deloitte would run for a studio's strategy and marketing teams. Rather than just visualising data, every chart answers a specific business or marketing question, and every question leads to a decision recommendation.
+This project treats Pixar's film portfolio as a real client engagement — the kind a consulting firm would run for a studio's strategy and marketing teams. Rather than just visualising data, every chart answers a specific business or marketing question, and every question leads to a decision recommendation.
 
 **Dataset:** 28 Pixar films · Box office, budgets, RT/Metacritic/IMDb scores, CinemaScore grades, Academy Award history, domestic vs international splits · 1995–2024
 
