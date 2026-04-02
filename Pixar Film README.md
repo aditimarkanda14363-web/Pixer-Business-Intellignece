@@ -6,7 +6,7 @@ Business &amp; Marketing Intelligence analysis of Pixar's 28-film portfolio — 
 
 > A full-spectrum portfolio project analysing Pixar's 28-film catalog (1995–2024) through the lens of a Business Analyst and Marketing Analyst — structured across the four tiers of analytics consulting.
 
-**[▶ View Live Dashboard](https://yourusername.github.io/pixar-business-intelligence/pixar-portfolio.html)** 
+**[▶ View Live Dashboard](https://aditimarkanda14363-web.github.io/Pixer-Business-Intellignece/)** 
 
 ---
 
