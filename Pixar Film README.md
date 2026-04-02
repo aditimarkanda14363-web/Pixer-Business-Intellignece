@@ -94,12 +94,6 @@ All 24 questions are structured across the four tiers used in professional busin
 - Geographic revenue segmentation and market dependency mapping
 - Release strategy optimisation framework
 
-**Technical**
-- Data analysis and statistical summary (JavaScript / Node.js, Claud)
-- Interactive dashboard development (Chart.js, HTML/CSS, Claud)
-- Data visualisation across 19 chart types
-- Single-file deployable web application
-
 
 
 ---
